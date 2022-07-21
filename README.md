@@ -1,6 +1,6 @@
 # CV2-Implementation
 
-The implementation can be tested by running the AttGAN Implementtaion.ipynb file itself. Open the file in Google Collab to work with it.
+The implementation can be tested by running the AttGANImplementtaion.ipynb file itself. Open the file in Google Collab to work with it.
 This conatins the necessary steps for running the codes which are given in the zip file above.
 
 
