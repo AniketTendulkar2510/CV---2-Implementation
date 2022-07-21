@@ -1,0 +1,7 @@
+Python 3.6
+TensorFlow 1.15
+OpenCV
+scikit-image
+tqdm
+oyaml
+Minoconda 4.5.4
